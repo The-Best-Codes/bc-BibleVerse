@@ -112,10 +112,11 @@ const bcBibleVerse = (function () {
   };
 })();
 
-// Usage
+/* Usage
 bcBibleVerse.getRandomVerse({
   showKey: true,
   showVerse: true,
   keyAfterText: false,
   separationCharacter: ": ",
 });
+*/
