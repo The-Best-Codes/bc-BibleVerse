@@ -1,12 +1,14 @@
 # bc-BibleVerse.js
 ### A simple random Bible verse picker. It uses JavaScript and an array of Bible verses to choose a random verse out of the Bible.
-
 The JavaScript libarary has only one function; it is very lightweight and shouldn't bog your website down at all. 
 
+<img src="https://github.com/The-Best-Codes/bc-BibleVerse/assets/106822363/59ebe969-5857-4aac-8e23-580452f5dad3" alt="Bible in circuitry, AI image" ai="true" ai-type="Dalle-3" title="Does anyone ever look at hover titles?" target="_blank" style="border-radius: 15px" /> 
+
+
+<br />
 ## Usage
 ### getRandomVerse()
 The `getRandomVerse()` function has four parameters, three of which are booleans and one of which is a string. Below is a description of how to use each parameter.
-
 
 #### showKey
 >**Default Value:** `true`
