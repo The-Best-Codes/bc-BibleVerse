@@ -6,8 +6,11 @@ The JavaScript libarary has only one function; it is very lightweight and should
 
 
 <br />
+
 ## Usage
+
 ### getRandomVerse()
+
 The `getRandomVerse()` function has four parameters, three of which are booleans and one of which is a string. Below is a description of how to use each parameter.
 
 #### showKey
