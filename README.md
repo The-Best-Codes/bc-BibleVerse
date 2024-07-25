@@ -1,3 +1,5 @@
+# WARNING! This project has been sunsetted. Use the new npm package here instead (browser support coming soon): [https://github.com/The-Best-Codes/best-bible](https://github.com/The-Best-Codes/best-bible)
+
 # bc-BibleVerse.js
 ### A simple random Bible verse picker. It uses JavaScript and an array of Bible verses to choose a random verse out of the Bible.
 The JavaScript libarary has only one function; it is very lightweight and shouldn't bog your website down at all. 
